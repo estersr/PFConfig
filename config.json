@@ -1,3 +1,4 @@
 {
-  "enable_unsafe_mode": true
+  "enable_unsafe_mode": true,
+  "use_review_safe_paywall_text": true
 }
