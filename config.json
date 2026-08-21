@@ -1,4 +1,6 @@
 {
   "enable_unsafe_mode": true,
-  "use_review_safe_paywall_text": true
+  "use_review_safe_paywall_text": true,
+   "enable_facetime_feature": true,
+  "enable_rating_popup": true
 }
