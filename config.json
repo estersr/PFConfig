@@ -1,5 +1,5 @@
 {
-  "enable_unsafe_mode": false,
+  "enable_unsafe_mode": true,
   "use_review_safe_paywall_text": true,
    "enable_facetime_feature": false,
   "enable_rating_popup": false
